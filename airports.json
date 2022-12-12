@@ -1,0 +1,289 @@
+[
+    {
+      "IATA": "ATL",
+      "Airport Name": "Hartsfield-Jackson Atlanta International Airport",
+      "Passengers": "110531300",
+      "Region": "Southeast",
+      "Rank": 1
+    },
+    {
+      "IATA": "LAX",
+      "Airport Name": "Los Angeles International Airport",
+      "Passengers": "88068013",
+      "Region": "Pacific",
+      "Rank": 2
+    },
+    {
+      "IATA": "ORD",
+      "Airport Name": "O'Hare International Airport",
+      "Passengers": "84649115",
+      "Region": "Central",
+      "Rank": 3
+    },
+    {
+      "IATA": "DFW",
+      "Airport Name": "Dallas/Fort Worth International Airport",
+      "Passengers": "75066956",
+      "Region": "Southwest",
+      "Rank": 4
+    },
+    {
+      "IATA": "DEN",
+      "Airport Name": "Denver International Aiport",
+      "Passengers": "69015703",
+      "Region": "Northwest",
+      "Rank": 5
+    },
+    {
+      "IATA": "JFK",
+      "Airport Name": "John F. Kennedy International Airport",
+      "Passengers": "62551072",
+      "Region": "Atlantic",
+      "Rank": 6
+    },
+    {
+      "IATA": "SFO",
+      "Airport Name": "San Francisco International Airport",
+      "Passengers": "57488023",
+      "Region": "Pacific",
+      "Rank": 7
+    },
+    {
+      "IATA": "LAS",
+      "Airport Name": "Harry Reid International Airport",
+      "Passengers": "51537638",
+      "Region": "Pacific",
+      "Rank": 9
+    },
+    {
+      "IATA": "MCO",
+      "Airport Name": "Orlando International Airport",
+      "Passengers": "50613072",
+      "Region": "Southeast",
+      "Rank": 10
+    },
+    {
+      "IATA": "CLT",
+      "Airport Name": "Charlotte Douglas International Airport",
+      "Passengers": "50168783",
+      "Region": "Southeast",
+      "Rank": 11
+    },
+    {
+      "IATA": "EWR",
+      "Airport Name": "Newark Liberty International Airport",
+      "Passengers": "46336452",
+      "Region": "Atlantic",
+      "Rank": 12
+    },
+    {
+      "IATA": "PHX",
+      "Airport Name": "Phoenix Sky Harbor International Airport",
+      "Passengers": "46288337",
+      "Region": "Pacific",
+      "Rank": 13
+    },
+    {
+      "IATA": "MIA",
+      "Airport Name": "Miami International Airport",
+      "Passengers": "45924466",
+      "Region": "Southeast",
+      "Rank": 14
+    },
+    {
+      "IATA": "IAH",
+      "Airport Name": "George Bush Intercontinental Airport",
+      "Passengers": "45264059",
+      "Region": "Southwest",
+      "Rank": 15
+    },
+    {
+      "IATA": "BOS",
+      "Airport Name": "General Edward Lawrence Logan International Airport",
+      "Passengers": "42522411",
+      "Region": "Atlantic",
+      "Rank": 16
+    },
+    {
+      "IATA": "MSP",
+      "Airport Name": "Minneapolis-Saint Paul International Airport",
+      "Passengers": "39555035",
+      "Region": "Northwest",
+      "Rank": 17
+    },
+    {
+      "IATA": "DTW",
+      "Airport Name": "Detroit Metropolitan Airport",
+      "Passengers": "36769279",
+      "Region": "Central",
+      "Rank": 18
+    },
+    {
+      "IATA": "FLL",
+      "Airport Name": "Fort Lauderdale-Hollywood International Airport",
+      "Passengers": "36747622",
+      "Region": "Southeast",
+      "Rank": 19
+    },
+    {
+      "IATA": "PHL",
+      "Airport Name": "Philadelphia International Airport",
+      "Passengers": "33018886",
+      "Region": "Atlantic",
+      "Rank": 20
+    },
+    {
+      "IATA": "LGA",
+      "Airport Name": "LaGuardia Airport",
+      "Passengers": "31084894",
+      "Region": "Atlantic",
+      "Rank": 21
+    },
+    {
+      "IATA": "BWI",
+      "Airport Name": "Baltimore/Washington International Airport",
+      "Passengers": "26993896",
+      "Region": "Atlantic",
+      "Rank": 22
+    },
+    {
+      "IATA": "SLC",
+      "Airport Name": "Salt Lake City International Airport",
+      "Passengers": "26808014",
+      "Region": "Northwest",
+      "Rank": 23
+    },
+    {
+      "IATA": "SAN",
+      "Airport Name": "San Diego International Airport",
+      "Passengers": "25216947",
+      "Region": "Pacific",
+      "Rank": 24
+    },
+    {
+      "IATA": "IAD",
+      "Airport Name": "Washington Dulles International Airport",
+      "Passengers": "24817677",
+      "Region": "Atlantic",
+      "Rank": 25
+    },
+    {
+      "IATA": "DCA",
+      "Airport Name": "Ronald Reagan Washington National Airport",
+      "Passengers": "23945527",
+      "Region": "Atlantic",
+      "Rank": 26
+    },
+    {
+      "IATA": "TPA",
+      "Airport Name": "Tampa International Airport",
+      "Passengers": "22497953",
+      "Region": "Southeast",
+      "Rank": 27
+    },
+    {
+      "IATA": "HNL",
+      "Airport Name": "Daniel K. Inouye International Airport",
+      "Passengers": "21870691",
+      "Region": "Pacific",
+      "Rank": 28
+    },
+    {
+      "IATA": "MDW",
+      "Airport Name": "Midway International Airport",
+      "Passengers": "20844860",
+      "Region": "Central",
+      "Rank": 29
+    },
+    {
+      "IATA": "PDX",
+      "Airport Name": "Portland International Airport",
+      "Passengers": "19891365",
+      "Region": "Northwest",
+      "Rank": 30
+    },
+    {
+      "IATA": "BNA",
+      "Airport Name": "Nashville International Airport",
+      "Passengers": "18273434",
+      "Region": "Southwest",
+      "Rank": 31
+    },
+    {
+      "IATA": "AUS",
+      "Airport Name": "Austin-Bergstrom International Airport",
+      "Passengers": "17343729",
+      "Region": "Southwest",
+      "Rank": 32
+    },
+    {
+      "IATA": "DAL",
+      "Airport Name": "Dallas Love Field",
+      "Passengers": "16780158",
+      "Region": "Southwest",
+      "Rank": 33
+    },
+    {
+      "IATA": "STL",
+      "Airport Name": "St. Louis Lambert International Airport",
+      "Passengers": "15878527",
+      "Region": "Midwest",
+      "Rank": 34
+    },
+    {
+      "IATA": "SJC",
+      "Airport Name": "Norman Y. Mineta San Jose International Airport",
+      "Passengers": "15650444",
+      "Region": "Pacific",
+      "Rank": 35
+    },
+    {
+      "IATA": "HOU",
+      "Airport Name": "William P. Hobby Airport",
+      "Passengers": "14455307",
+      "Region": "Southwest",
+      "Rank": 36
+    },
+    {
+      "IATA": "RDU",
+      "Airport Name": "Raleigh-Durham International Airport",
+      "Passengers": "14218621",
+      "Region": "Southeast",
+      "Rank": 37
+    },
+    {
+      "IATA": "MSY",
+      "Airport Name": "Louis Armstrong New Orleans International Airport",
+      "Passengers": "13378411",
+      "Region": "Southeast",
+      "Rank": 38
+    },
+    {
+      "IATA": "OAK",
+      "Airport Name": "Oakland International Airport",
+      "Passengers": "13378311",
+      "Region": "Pacific",
+      "Rank": 39
+    },
+    {
+      "IATA": "SMF",
+      "Airport Name": "Sacramento International Airport",
+      "Passengers": "13172840",
+      "Region": "Pacific",
+      "Rank": 40
+    },
+    {
+      "IATA": "MCI",
+      "Airport Name": "Kansas City International Airport",
+      "Passengers": "11795635",
+      "Region": "Midwest",
+      "Rank": 41
+    },
+    {
+      "IATA": "SNA",
+      "Airport Name": "John Wayne Airport",
+      "Passengers": "10656986",
+      "Region": "Pacific",
+      "Rank": 42
+    }
+  ]

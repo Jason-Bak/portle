@@ -1,0 +1,36 @@
+body {
+    text-align:center;
+    margin-bottom:5em;
+    justify-content:center;
+  }
+  
+  #block1 {
+    margin-top:10em;
+  }
+  
+  input {
+    width:60%;
+    border:1px solid #ccc;
+    border-radius:5px;
+  }
+  
+  #userGuess {
+    z-index:1;
+  }
+  
+  figure,figcaption {
+    font-size:13px;
+  }
+  figure {
+    z-index:1050;
+    padding-top:5%;
+  }
+  
+  #block2 {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    margin-top:10%;
+    width:80%;
+  }
